@@ -3,9 +3,8 @@ def order(A): # Descending order
         if A[i] - A[i+1] < 0:
             return False
     return True
-class Solution(object):
 
-    
+class Solution(object): 
     def maxProfit(self, prices):
         """
         :type prices: List[int]
@@ -19,7 +18,6 @@ class Solution(object):
                 prices.remove(max(prices))
             else:
                 break
-        
         #if min value is last index get rid of it
         while len(prices)>0:    
             if prices.index(min(prices)) == len(prices)-1:
