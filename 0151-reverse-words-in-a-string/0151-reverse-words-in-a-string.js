@@ -13,8 +13,9 @@ var reverseWords = function(s) {
     //get rid of any extra spaces
     s_rev = arr_rev.filter(char=>{
         return char != '';
-    }).join(' ')
-    console.log(s_rev)
+    }).join(' ');
+    
+    console.log(s_rev);
     
     return s_rev
     
