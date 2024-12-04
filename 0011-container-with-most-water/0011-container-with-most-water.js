@@ -3,41 +3,23 @@
  * @return {number}
  */
 var maxArea = function(height) {
-   //have a pointer tat the start of the array
-
-   //have another at the end
-
-   //take the min of the two height
-
-   //keep track of the max of area
-
-   //calculate the area
-//-----------------------------------
-    //naive solution
-
-    //keep track of max of area
-    // var max_area = 0;
-
-    // for(var i = 0; i < height.length; i++){
-    //     for(var j= height.length-1; j > i ; j--){
-    //         var min_height = Math.min(height[i],height[j])
-    //         console.log('height: ', min_height)
-    //         var diff = j-i
-    //         max_area = Math.max(max_area, min_height*diff)
-    //         console.log(max_area)
-    //     }
-
-    // }
-
-    // return max_area
-
+  
+    //Initialize two pointers (left at 0 and right at height.length - 1).
     var left = 0;
     var right = height.length-1; 
+
+    //max area
     var area = 0
 
+    //Use a while loop to iterate until left meets right
     while(left != right){
+        //Calculate the Area
         var new_area = Math.min(height[left], height[right]) * (right - left);
+
+        //Calculate the current area and update max_area if it's larger.
         area = Math.max(area,new_area)
+
+        //Move the pointer pointing to the smaller height inward.
         if(height[left] < height[right]){
             left++
         } else{
