@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/cesargua/CesarLeetCode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/cesargua/CesarLeetCode/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
