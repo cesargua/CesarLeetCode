@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/cesargua/CesarLeetCode/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/cesargua/CesarLeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cesargua/CesarLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/cesargua/CesarLeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cesargua/CesarLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/cesargua/CesarLeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
