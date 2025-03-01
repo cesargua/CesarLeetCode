@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cesargua/CesarLeetCode/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/cesargua/CesarLeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/cesargua/CesarLeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cesargua/CesarLeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/cesargua/CesarLeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/cesargua/CesarLeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/cesargua/CesarLeetCode/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/cesargua/CesarLeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
